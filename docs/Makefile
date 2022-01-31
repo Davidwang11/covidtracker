@@ -3,7 +3,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = CovidTracker
+SPHINXPROJ    = covid_test_1
 SOURCEDIR     = .
 BUILDDIR      = _build
 
