@@ -1,5 +1,5 @@
-from CovidTracker.get_covid_data import get_covid_data
-from CovidTracker.plot_time_series import plot_ts
+from covid_test_1.get_covid_data import get_covid_data
+from covid_test_1.plot_time_series import plot_ts
 from pytest import raises
 import pandas as pd
 import pytest
