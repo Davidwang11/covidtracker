@@ -1,4 +1,4 @@
-from CovidTracker.get_covid_data import get_covid_data 
+from covid_test_1.get_covid_data import get_covid_data 
 import pandas as pd
 import pytest
 
